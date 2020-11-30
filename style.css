@@ -269,6 +269,14 @@ Footer
   margin: 0 10px;
 }
 
+.footer .social a:hover {
+  color: var(--blue);
+}
+
+.footer nav a:hover {
+  color: var(--blue);
+}
+
 /****************************
 Animations
 ****************************/
